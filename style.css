@@ -34,10 +34,10 @@ body{
     background-color: #1b98f5;
     color: #fff;
     font-weight: bold;
-
+    cursor: pointer;
 }
 img{
-    margin-top: 40px;
+    margin-top: 60px;
     margin-left: 35%;
     display: none;
 }
